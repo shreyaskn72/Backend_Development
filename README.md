@@ -7,3 +7,5 @@ The project is done using python Flask and sqlite 3.
 
 * GET
 * POST
+* DELETE
+* PUT
